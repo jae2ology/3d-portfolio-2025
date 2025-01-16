@@ -24,3 +24,6 @@ A section dedicated to showcasing my projects, with detailed descriptions, tech 
 Includes a fully functional contact form that goes to my email, using Email.js to handle form submissions without a back-end server.
 
 # Thanks to JavaScript Mastery's Tutorial!: https://www.youtube.com/watch?v=FkowOdMjvYo 
+
+
+![image](https://github.com/user-attachments/assets/52d34366-bc0f-4755-aa3d-18337289de30)
