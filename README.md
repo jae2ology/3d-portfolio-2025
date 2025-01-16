@@ -4,7 +4,7 @@ This is my portfolio! I used React and Vite to showcase me, my projects, and my 
 
 ## Here are some Features of the website!
 ### Immersive 3D Graphics:
-Utilized Three.js to render interactive 3D elements, such as models, animations, or background scenes, creating a visually engaging user experience.
+Utilized Three.js to render interactive 3D elements, such as models, animations, and background scenes, creating a visually engaging user experience.
 
 ### Responsive Design
 Designed with Tailwind CSS, ensuring a seamless experience across desktop, tablet, and mobile devices.
@@ -18,7 +18,7 @@ Interactive features like hover effects, animations, and 3D object manipulation,
 Smooth transitions and animations powered by GSAP or other animation libraries.
 
 ### Project Gallery
-A section dedicated to showcasing projects, with detailed descriptions, tech stack information, and links to GitHub or live demos.
+A section dedicated to showcasing my projects, with detailed descriptions, tech stack information, and links to GitHub and Linkedin.
 
 ### Contact Form Integration
 Includes a fully functional contact form that goes to my email, using Email.js to handle form submissions without a back-end server.
